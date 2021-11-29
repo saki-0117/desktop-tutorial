@@ -6,7 +6,7 @@ Created on Mon Nov 22 17:18:01 2021
 """
 
 import streamlit as st
-st.title("DAREKA-ATEMASHU")
+st.title("DAREKA-ATEMASU")
 st.write("心理テストへようこそ！")
 
 option=st.selectbox(
